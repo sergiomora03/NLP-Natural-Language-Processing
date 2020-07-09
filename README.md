@@ -28,10 +28,10 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 
 |Description|File|
 |----|--------|
-|Notebook|[deploy]()|
-|API|[deploy]()|
-|Documentation|[deploy]()
-|Dataset|[deploy]()|
+|Notebook|[deploy](https://github.com/sergiomora03/NLP-Natural-Language-Processing/tree/master/Project/Notebook)|
+|API|[deploy](https://github.com/sergiomora03/NLP-Natural-Language-Processing/tree/master/Project/API)|
+|Documentation|[deploy](https://github.com/sergiomora03/NLP-Natural-Language-Processing/tree/master/Project/Documentation)
+|Dataset|[deploy](https://github.com/sergiomora03/NLP-Natural-Language-Processing/tree/master/Project/dataset)|
 
 ### Ejercicios
 
