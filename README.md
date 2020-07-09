@@ -29,10 +29,12 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 |Description|File|
 |----|--------|
 |Notebook|[deploy]()|
+|API|[deploy]()|
+|Documentation|[deploy]()
 |Dataset|[deploy]()|
 
 ### Ejercicios
 
 |Description  | File|
 |-----------: |:------------:|
-|    Notebooks Excercises | <p> [E02-TSA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E02-TSA.ipynb) <br> [E03-ARIMA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E03-ARIMA_grupo.ipynb) <br> [E05-prophet](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E05-prophet.ipynb) </p>|
+|    Notebooks Excercises | [E02-TSA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E02-TSA.ipynb) <br> [E03-ARIMA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E03-ARIMA_grupo.ipynb) <br> [E05-prophet](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E05-prophet.ipynb) |
