@@ -18,7 +18,7 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 
  # NLP: Natural Language Processing
 
-* Jaime Orjuela Viracacha, cod.: 
+* Jaime Orjuela Viracacha, cod.: 201924252
 * Nelson Aldana Martinez, cod.: 201924128
 * Juan Sebastián Rincon Hortua, cod.: 201214767
 * Sergio Alberto Mora Pardo, cod.: 201920547
