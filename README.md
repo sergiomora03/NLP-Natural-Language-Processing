@@ -18,10 +18,10 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 
  # NLP: Natural Language Processing
 
-* Jaime Orjuela Virachara
-* Nelson Aldana Martinez
-* Juan Sebastián Rincon Hortua
-* Sergio Alberto Mora Pardo
+* Jaime Orjuela Viracacha, cod.: 
+* Nelson Aldana Martinez, cod.: 201924128
+* Juan Sebastián Rincon Hortua, cod.: 201214767
+* Sergio Alberto Mora Pardo, cod.: 201920547
 
 # Contenido
 ### Proyecto 3
@@ -37,4 +37,4 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 
 |Description  | File|
 |-----------: |:------------:|
-|    Notebooks Excercises | [E12-SentimentPrediction](https://nbviewer.jupyter.org/github/sergiomora03/NLP-Natural-Language-Processing/blob/master/Excercises/E12-SentimentPrediction.ipynb)<br> [E-13](https://nbviewer.jupyter.org/github/sergiomora03/NLP-Natural-Language-Processing/blob/master/Excercises/E13-ClassHomeworksAnalysis.ipynb) <br> [E14-LSTM](https://github.com/sergiomora03/NLP-Natural-Language-Processing/blob/master/Excercises/E14_LSTM.ipynb) <br> [E15-MLP](https://nbviewer.jupyter.org/github/sergiomora03/NLP-Natural-Language-Processing/blob/master/Excercises/E15-MLP-G8.ipynb) |
+|    Notebooks Excercises | [E12-SentimentPrediction](https://nbviewer.jupyter.org/github/sergiomora03/NLP-Natural-Language-Processing/blob/master/Excercises/E12-SentimentPrediction.ipynb)<br> [E13-ClassHomeworkAnalysis](https://nbviewer.jupyter.org/github/sergiomora03/NLP-Natural-Language-Processing/blob/master/Excercises/E13-ClassHomeworksAnalysis.ipynb) <br> [E14-LSTM](https://github.com/sergiomora03/NLP-Natural-Language-Processing/blob/master/Excercises/E14_LSTM.ipynb) <br> [E15-MLP](https://nbviewer.jupyter.org/github/sergiomora03/NLP-Natural-Language-Processing/blob/master/Excercises/E15-MLP-G8.ipynb) |
