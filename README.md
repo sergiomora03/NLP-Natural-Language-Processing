@@ -37,4 +37,4 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 
 |Description  | File|
 |-----------: |:------------:|
-|    Notebooks Excercises | [E02-TSA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E02-TSA.ipynb) <br> [E03-ARIMA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E03-ARIMA_grupo.ipynb) <br> [E05-prophet](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E05-prophet.ipynb) |
+|    Notebooks Excercises | [E12-SentimentPrediction](https://nbviewer.jupyter.org/github/sergiomora03/NLP-Natural-Language-Processing/blob/master/Excercises/E12-SentimentPrediction.ipynb)<br> [E-13]() <br> [E14-LSTM](https://github.com/sergiomora03/NLP-Natural-Language-Processing/blob/master/Excercises/E14_LSTM.ipynb) <br> [E15-MLP](https://nbviewer.jupyter.org/github/sergiomora03/NLP-Natural-Language-Processing/blob/master/Excercises/E15-MLP-G8.ipynb) |
