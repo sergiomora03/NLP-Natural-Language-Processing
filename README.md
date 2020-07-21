@@ -30,7 +30,7 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 |----|--------|
 |Notebook|[P3_MovieGenrePrediction](https://github.com/sergiomora03/NLP-Natural-Language-Processing/blob/master/Project/Notebook/P3_MovieGenrePrediction_final.ipynb)|
 |API deploy|[Movie Genre Prediction Deploy](https://github.com/sergiomora03/NLP-Natural-Language-Processing/tree/master/Project/API)|
-|API|[Movie Genre Prediction API](http://ec2-18-218-105-72.us-east-2.compute.amazonaws.com:5000)|
+|API|[Movie Genre Prediction API](http://ec2-18-218-221-161.us-east-2.compute.amazonaws.com:5000)|
 |Documentation|[Movie Genre Prediction](https://github.com/sergiomora03/NLP-Natural-Language-Processing/blob/master/Project/Documentation/Proyecto%203%20-%20NLP.pdf)|
 |Dataset|[Kaggle](https://www.kaggle.com/c/miia4201-202019-p3-moviegenreclassification/data)|
 
