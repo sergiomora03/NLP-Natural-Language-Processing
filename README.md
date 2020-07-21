@@ -1,6 +1,6 @@
 <center>
 
-![](https://uniandes.edu.co/sites/default/files/logo-uniandes.png)
+![](https://investigaciones.uniandes.edu.co/wp-content/themes/vicerrectoria001/images/logo2.png)
 
 </center>
 
