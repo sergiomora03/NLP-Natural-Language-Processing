@@ -28,10 +28,10 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 
 |Description|File|
 |----|--------|
-|Notebook|[deploy](https://github.com/sergiomora03/NLP-Natural-Language-Processing/tree/master/Project/Notebook)|
-|API|[deploy](https://github.com/sergiomora03/NLP-Natural-Language-Processing/tree/master/Project/API)|
-|Documentation|[deploy](https://github.com/sergiomora03/NLP-Natural-Language-Processing/tree/master/Project/Documentation)
-|Dataset|[deploy](https://github.com/sergiomora03/NLP-Natural-Language-Processing/tree/master/Project/dataset)|
+|Notebook|[P3_MovieGenrePrediction](https://github.com/sergiomora03/NLP-Natural-Language-Processing/blob/master/Project/Notebook/P3_MovieGenrePrediction_final.ipynb)|
+|API|[Movie Genre Prediction API](https://github.com/sergiomora03/NLP-Natural-Language-Processing/tree/master/Project/API)|
+|Documentation|[Movie Genre Prediction](https://github.com/sergiomora03/NLP-Natural-Language-Processing/blob/master/Project/Documentation/Proyecto%203.pdf)|
+|Dataset|[Kaggle](kaggle competitions download -c miia4201-202019-p3-moviegenreclassification)|
 
 ### Ejercicios
 
